@@ -73,7 +73,7 @@ p {
 }
 
 .image1 {
-  background-image: url("/img/image1.png");
+  background-image: url("./img/image1.png");
   background-size: cover;
   background-position: center;
   padding: 128px 0;
